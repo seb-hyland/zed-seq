@@ -1,0 +1,3 @@
+name = "BioSeq"
+grammar = "seq"
+path_suffixes = ["fa", "fasta", "fna", "fq", "fastq"]

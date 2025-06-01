@@ -1,0 +1,11 @@
+id = "bioseq"
+name = "BioSeq"
+description = "Biological Sequence Syntax Highlighting"
+version = "0.1.0"
+schema_version = 1
+authors = ["Sebastian Hyland <st.hyland05@gmail.com>"]
+# repository = "https://github.com/jackTabsCode/zed-just"
+
+[grammars.seq]
+repository = "https://github.com/seb-hyland/tree-sitter-seq"
+commit = "9530ed9e073c8b5f537d63f2bb62f585ea64df6e"
